@@ -26,7 +26,7 @@ Usado para apagar permanentemente tabelas ou bancos de dados do sistema.
 
 ##### INSERT:
 * Usado para inserir novos registros de dados em uma tabela existente.
-* INSERT INTO tabela (nome) VALUES ('Exemplo');
+* INSERT INTO tabela (nome) VALUES ('Exemplo'); INT
 
 ##### SELECT:
 * Usado para consultar e recuperar dados salvos em uma ou mais tabelas.
